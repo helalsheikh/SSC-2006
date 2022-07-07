@@ -1,0 +1,29 @@
+* {
+    background: gray;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: "Trirong", serif;
+}
+
+.container {
+    display: inline-block;
+    border: 2px dashed blue;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.ssc {
+    text-align: center;
+    text-decoration: underline;
+    color: maroon;
+}
+
+.helal {
+    color: yellow;
+}
+
+.khan {
+    float: right;
+    padding-bottom: 70px;
+    padding-right: 20px;
+}
